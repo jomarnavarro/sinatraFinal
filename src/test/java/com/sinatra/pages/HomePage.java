@@ -35,4 +35,7 @@ public class HomePage extends BasePage {
     public void navegarMenu(String opcionMenu) {
         linkSongs.click();
     }
+
+    public void login(String username, String password) {
+    }
 }
